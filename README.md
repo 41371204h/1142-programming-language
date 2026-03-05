@@ -12,3 +12,4 @@
 
 Markdown 語法說明：https://markdown.tw/
 
+作業一(https://github.com/41371204h/1142-programming-language/blob/main/HW1_%E6%97%A5%E5%B8%B8%E6%94%AF%E5%87%BA%E9%80%9F%E7%AE%97%E8%88%87%E5%88%86%E6%94%A4.ipynb) 日常支出速算與分攤
