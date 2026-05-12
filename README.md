@@ -22,6 +22,6 @@ part2：[日常支出速算與分攤 Gradio](https://github.com/41371204h/1142-p
 part1：[成績一本通part1](https://github.com/41371204h/1142-programming-language/blob/main/HW2_%E6%88%90%E7%B8%BE%E4%B8%80%E6%9C%AC%E9%80%9A_part1.ipynb)  
 part2：[成績一本通part2](https://github.com/41371204h/1142-programming-language/blob/main/HW2_%E6%88%90%E7%B8%BE%E4%B8%80%E6%9C%AC%E9%80%9A_part2.ipynb)
 
-* HW3 [影片講解](https://youtu.be/uL45PI3wj-8) 
+* HW3 [影片講解](https://youtu.be/uL45PI3wj-8)  
 [待辦清單與番茄鐘紀錄](https://github.com/41371204h/1142-programming-language/blob/main/HW3_%E5%BE%85%E8%BE%A6%E6%B8%85%E5%96%AE%E8%88%87%E7%95%AA%E8%8C%84%E9%90%98%E7%B4%80%E9%8C%84.ipynb)
 
