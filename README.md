@@ -27,5 +27,4 @@ part2：[成績一本通part2](https://github.com/41371204h/1142-programming-lan
 
 * HW4 [影片講解](https://youtu.be/1hrE8CI4E5E)  
 [HW4_文字資料小分析](https://github.com/41371204h/1142-programming-language/blob/main/HW4_%E6%96%87%E5%AD%97%E8%B3%87%E6%96%99%E5%B0%8F%E5%88%86%E6%9E%90.ipynb)
-[備用colab](https://colab.research.google.com/drive/1Bp3x7cNLCKPgIrGd9gXk-Ij3MYtySQgm?usp=sharing)
 
