@@ -25,6 +25,6 @@ part2：[成績一本通part2](https://github.com/41371204h/1142-programming-lan
 * HW3 [影片講解](https://youtu.be/uL45PI3wj-8)  
 [待辦清單與番茄鐘紀錄](https://github.com/41371204h/1142-programming-language/blob/main/HW3_%E5%BE%85%E8%BE%A6%E6%B8%85%E5%96%AE%E8%88%87%E7%95%AA%E8%8C%84%E9%90%98%E7%B4%80%E9%8C%84.ipynb)
 
-* HW4 [影片講解]()  
-[HW4_文字資料小分析]()
+* HW4 [影片講解](https://youtu.be/1hrE8CI4E5E)  
+[HW4_文字資料小分析](https://github.com/41371204h/1142-programming-language/blob/main/HW4_%E6%96%87%E5%AD%97%E8%B3%87%E6%96%99%E5%B0%8F%E5%88%86%E6%9E%90.ipynb)
 
